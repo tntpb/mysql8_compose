@@ -9,3 +9,4 @@ ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'yunwei3322';
 
 -- 这一条命令一定要有：
 flush privileges;
+-- 111
